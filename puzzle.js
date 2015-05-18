@@ -56,6 +56,5 @@ function start() {
 
 }
 
-    
 img.onload = start;
 img.src = 'http://www.html5canvastutorials.com/demos/assets/darth-vader.jpg';
