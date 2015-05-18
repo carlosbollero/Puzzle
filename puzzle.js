@@ -1,8 +1,8 @@
-
 var canvas = document.getElementById("myCanvas");
 var ctx = canvas.getContext("2d");
 var cw = canvas.width;
 var ch = canvas.height;
+    
 
 var rows = 3;
 var cols = 3;
@@ -50,9 +50,13 @@ function start() {
 
 }
 
-
+    
 img.onload = start;
 img.src = 'http://www.html5canvastutorials.com/demos/assets/darth-vader.jpg';
+
+
+    
+
 
 
 /*imageObj.src = 'http://www.html5canvastutorials.com/demos/assets/darth-vader.jpg';*/
