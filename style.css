@@ -1,5 +1,10 @@
 
 body {
+    background-color: ivory;
 	position: center;
 	text-align: center;
+}
+
+#canvas{
+    border:1px solid red;
 }
