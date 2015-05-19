@@ -6,7 +6,7 @@
 var canvas = document.getElementById("myCanvas");
 var ctx = canvas.getContext("2d");
 var cw = canvas.width;
-var ch = canvas.height;    
+var ch = canvas.height;
 
 var rows = 3;
 var cols = 3;
